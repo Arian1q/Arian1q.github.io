@@ -180,7 +180,7 @@ body {
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
   background-color: #a7ffee;
-  background-image: linear-gradient(to top, #0dea1c, #0dea1c);
+  background-image: linear-gradient(to top, #ea0d0d, #ea0d0d);
   transform-origin: bottom center;
   opacity: 0.9;
   box-shadow: inset 0 0 2vmin rgba(255, 255, 255, 0.5);
@@ -798,7 +798,7 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #fff;
+  border-left: 2vmin solid #0dea1c;
   -webkit-mask-image: linear-gradient(to top, transparent 25%, #0dea1c 50%);
   position: relative;
   z-index: 1;
